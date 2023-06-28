@@ -12,9 +12,9 @@ export const items = {
 };
 
 export const userDetails = {
-  firstName: 'John',
+  firstName: 'John1',
   lastName: 'Doe',
-  zipCode: '12345',
+  zipCode: '09876',
 };
 
 export const paymentDetails = {
