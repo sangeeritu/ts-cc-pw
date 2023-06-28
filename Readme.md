@@ -9,7 +9,7 @@ This is a boilerplate project which includes CodeceptJS + Playwright setup using
 npm i
 ```
 ## Run 
-npx codeceptjs run
+npx codeceptjs run or npm run run:tests
 
 ## Contents
 
